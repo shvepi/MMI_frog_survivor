@@ -27,20 +27,20 @@ public class MenuManager : MonoBehaviour {
     // Use this for initialization
     void Start ()
     {
-        scoreText.text = "" + 0;
-        coinText.text = "" + 0;
+        scoreText.text = "Score: " + 0;
+        coinText.text = "Coins: " + 0;
 	}
 
     public void IncreaseCoin()
     {
         currentCoin++;
-        coinText.text = "" + currentCoin;
+        coinText.text = "Coins: " + currentCoin;
     }
 
     public void IncreaseScore()
     {
         currentScore++;
-        scoreText.text = "" + currentScore;
+        scoreText.text = "Score: " + currentScore;
     }
 
     public void PlayBtn()
@@ -57,8 +57,8 @@ public class MenuManager : MonoBehaviour {
         gameOver = true;
         gameMenu.SetActive(false);
         gameOverMenu.SetActive(true);
-        goScoreText.text = "" + currentScore;
-        goCoinText.text = "" + currentCoin;
+        goScoreText.text = "Score: " + currentScore;
+        goCoinText.text = "Coins: " + currentCoin;
     }
 
     public void HomeBtn()

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMI_frog_survivor", "MMI_frog_survivor.csproj", "{333E51D8-3B3C-1412-FDB1-4217F7F7DA45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMI_frog_survivor.Editor", "MMI_frog_survivor.Editor.csproj", "{3C255357-A29C-E663-BB5D-D65BE933F16C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{333E51D8-3B3C-1412-FDB1-4217F7F7DA45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{333E51D8-3B3C-1412-FDB1-4217F7F7DA45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{333E51D8-3B3C-1412-FDB1-4217F7F7DA45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{333E51D8-3B3C-1412-FDB1-4217F7F7DA45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C255357-A29C-E663-BB5D-D65BE933F16C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C255357-A29C-E663-BB5D-D65BE933F16C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C255357-A29C-E663-BB5D-D65BE933F16C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C255357-A29C-E663-BB5D-D65BE933F16C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
