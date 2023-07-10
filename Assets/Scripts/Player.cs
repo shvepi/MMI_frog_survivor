@@ -4,6 +4,10 @@ using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
 using UnityEngine.Windows.Speech;
+using TMPro;
+
+
+
 
 public class Player : MonoBehaviour
 {
@@ -24,7 +28,7 @@ public class Player : MonoBehaviour
     private int currentDirection = 0;
     private int _direction = 0;
     private bool isInvincible = false; // Invincibility flag
-
+    public TMP_Text dashCooldownText;
     public int Direction { get { return _direction; } }
     private Dictionary<string, Action> keywordActions = new Dictionary<string, Action>();
     private KeywordRecognizer keywordRecognizer;
@@ -94,6 +98,20 @@ public class Player : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        // Update the dash cooldown text
+        if (Time.time < lastDashTime + dashCooldown)
+        {
+            dashCooldownText.text = $"Cooldown: {Mathf.Max(0, lastDashTime + dashCooldown - Time.time):0.0}s";
+        }
+        else
+        {
+            dashCooldownText.text = "";
+        }
+        // Make sure the text is positioned above the player
+        Vector3 textPosition = new Vector3(transform.position.x, transform.position.y + 2f, dashCooldownText.transform.position.z);
+        dashCooldownText.transform.position = textPosition;
+
+
         // Keyboard input.
         float horizontalInput = Input.GetAxis("Horizontal");
         int directionKeyboard = (horizontalInput != 0) ? (int)Mathf.Sign(horizontalInput) : 0;

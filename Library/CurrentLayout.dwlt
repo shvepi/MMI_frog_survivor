@@ -70,7 +70,7 @@ MonoBehaviour:
   m_MinSize: {x: 277, y: 192}
   m_MaxSize: {x: 4002, y: 8042}
   vertical: 1
-  controlID: 142
+  controlID: 141
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -542,9 +542,9 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
-    m_LastClickedID: 0
-    m_ExpandedIDs: 8041ffffcebbffff00e2ffff00000000cc320000fe32000062330000f23e0000
+    m_SelectedIDs: f0d4feff
+    m_LastClickedID: -76560
+    m_ExpandedIDs: 5ae7feffba63ffffbae0ffff0000000076330000023f0000363f0000663f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -562,7 +562,8 @@ MonoBehaviour:
       m_IsRenamingFilename: 0
       m_ClientGUIView: {fileID: 11}
     m_SearchString: 
-  m_ExpandedScenes: []
+  m_ExpandedScenes:
+  - GameScene
   m_CurrenRootInstanceID: 0
   m_Locked: 0
   m_CurrentSortingName: TransformSorting
@@ -593,7 +594,7 @@ MonoBehaviour:
     width: 275
     height: 572
   m_PersistentViewDataDictionary: {fileID: 0}
-  m_ScrollPosition: {x: 0, y: 0}
+  m_ScrollPosition: {x: 0, y: 16.955078}
   m_InspectorMode: 0
   m_PreviewResizer:
     m_CachedPref: -250
@@ -639,33 +640,33 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Prefabs/Enemy
+    - Assets/Scripts
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Prefabs/Enemy
+  - Assets/Scripts
   m_LastFoldersGridSize: 16
   m_LastProjectPath: E:\Frog Survivor\MMI_frog_survivor
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 602d0000
-    m_LastClickedID: 11616
-    m_ExpandedIDs: 000000004c2a00003a2d0000c02e00008e2f0000e63100001e3200002032000000ca9a3bffffff7f
+    m_SelectedIDs: fc2a0000
+    m_LastClickedID: 11004
+    m_ExpandedIDs: a82a0000902d00001e2f00003c3200007632000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Enemy
-      m_OriginalName: Enemy
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 11616
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 4}
     m_SearchString: 
@@ -679,7 +680,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000004c2a00003a2d0000c02e00008e2f0000e63100001e32000020320000
+    m_ExpandedIDs: 
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -710,18 +711,18 @@ MonoBehaviour:
     m_ExpandedInstanceIDs: 8a270000942700009a270000a22700007a290000c22700003e280000822e0000703100000a2c0000682c0000e4300000282f000080300000182f000060300000582a000000000000482e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Enemy3
-      m_OriginalName: Enemy3
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 11604
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 4}
     m_CreateAssetUtility:
@@ -839,14 +840,14 @@ MonoBehaviour:
     height: 308
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
-  lastFramingTime: 513.7854592
+  lastFramingTime: 1308.3174921
   m_2DMode: 1
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -9.059394, y: -1.4105169, z: -0.05648766}
+    m_Target: {x: -0.1463384, y: -2.1928444, z: 0.19410942}
     speed: 2
-    m_Value: {x: -9.059394, y: -1.4105169, z: -0.05648766}
+    m_Value: {x: -0.1463384, y: -2.1928444, z: 0.19410942}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -874,9 +875,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 16.951996
+    m_Target: 2.6108727
     speed: 2
-    m_Value: 16.951996
+    m_Value: 2.6108727
   m_Ortho:
     m_Target: 1
     speed: 2

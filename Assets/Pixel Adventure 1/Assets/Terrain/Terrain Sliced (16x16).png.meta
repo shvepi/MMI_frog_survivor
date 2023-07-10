@@ -1,153 +1,441 @@
 fileFormatVersion: 2
 guid: fc584d329b77b9545b9c9c8bb829e553
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: Terrain (16x16)_0
-    21300002: Terrain (16x16)_1
-    21300004: Terrain (16x16)_2
-    21300006: Terrain (16x16)_3
-    21300008: Terrain (16x16)_4
-    21300010: Terrain (16x16)_5
-    21300012: Terrain (16x16)_6
-    21300014: Terrain (16x16)_7
-    21300016: Terrain (16x16)_8
-    21300018: Terrain (16x16)_9
-    21300020: Terrain (16x16)_10
-    21300022: Terrain (16x16)_11
-    21300024: Terrain (16x16)_12
-    21300026: Terrain (16x16)_13
-    21300028: Terrain (16x16)_14
-    21300030: Terrain (16x16)_15
-    21300032: Terrain (16x16)_16
-    21300034: Terrain (16x16)_17
-    21300036: Terrain (16x16)_18
-    21300038: Terrain (16x16)_19
-    21300040: Terrain (16x16)_20
-    21300042: Terrain (16x16)_21
-    21300044: Terrain (16x16)_22
-    21300046: Terrain (16x16)_23
-    21300048: Terrain (16x16)_24
-    21300050: Terrain (16x16)_25
-    21300052: Terrain (16x16)_26
-    21300054: Terrain (16x16)_27
-    21300056: Terrain (16x16)_28
-    21300058: Terrain (16x16)_29
-    21300060: Terrain (16x16)_30
-    21300062: Terrain (16x16)_31
-    21300064: Terrain (16x16)_32
-    21300066: Terrain (16x16)_33
-    21300068: Terrain (16x16)_34
-    21300070: Terrain (16x16)_35
-    21300072: Terrain (16x16)_36
-    21300074: Terrain (16x16)_37
-    21300076: Terrain (16x16)_38
-    21300078: Terrain (16x16)_39
-    21300080: Terrain (16x16)_40
-    21300082: Terrain (16x16)_41
-    21300084: Terrain (16x16)_42
-    21300086: Terrain (16x16)_43
-    21300088: Terrain (16x16)_44
-    21300090: Terrain (16x16)_45
-    21300092: Terrain (16x16)_46
-    21300094: Terrain (16x16)_47
-    21300096: Terrain (16x16)_48
-    21300098: Terrain (16x16)_49
-    21300100: Terrain (16x16)_50
-    21300102: Terrain (16x16)_51
-    21300104: Terrain (16x16)_52
-    21300106: Terrain (16x16)_53
-    21300108: Terrain (16x16)_54
-    21300110: Terrain (16x16)_55
-    21300112: Terrain (16x16)_56
-    21300114: Terrain (16x16)_57
-    21300116: Terrain (16x16)_58
-    21300118: Terrain (16x16)_59
-    21300120: Terrain (16x16)_60
-    21300122: Terrain (16x16)_61
-    21300124: Terrain (16x16)_62
-    21300126: Terrain (16x16)_63
-    21300128: Terrain (16x16)_64
-    21300130: Terrain (16x16)_65
-    21300132: Terrain (16x16)_66
-    21300134: Terrain (16x16)_67
-    21300136: Terrain (16x16)_68
-    21300138: Terrain (16x16)_69
-    21300140: Terrain (16x16)_70
-    21300142: Terrain (16x16)_71
-    21300144: Terrain (16x16)_72
-    21300146: Terrain (16x16)_73
-    21300148: Terrain (16x16)_74
-    21300150: Terrain (16x16)_75
-    21300152: Terrain (16x16)_76
-    21300154: Terrain (16x16)_77
-    21300156: Terrain (16x16)_78
-    21300158: Terrain (16x16)_79
-    21300160: Terrain (16x16)_80
-    21300162: Terrain (16x16)_81
-    21300164: Terrain (16x16)_82
-    21300166: Terrain (16x16)_83
-    21300168: Terrain (16x16)_84
-    21300170: Terrain (16x16)_85
-    21300172: Terrain (16x16)_86
-    21300174: Terrain (16x16)_87
-    21300176: Terrain (16x16)_88
-    21300178: Terrain (16x16)_89
-    21300180: Terrain (16x16)_90
-    21300182: Terrain (16x16)_91
-    21300184: Terrain (16x16)_92
-    21300186: Terrain (16x16)_93
-    21300188: Terrain (16x16)_94
-    21300190: Terrain (16x16)_95
-    21300192: Terrain (16x16)_96
-    21300194: Terrain (16x16)_97
-    21300196: Terrain (16x16)_98
-    21300198: Terrain (16x16)_99
-    21300200: Terrain (16x16)_100
-    21300202: Terrain (16x16)_101
-    21300204: Terrain (16x16)_102
-    21300206: Terrain (16x16)_103
-    21300208: Terrain (16x16)_104
-    21300210: Terrain (16x16)_105
-    21300212: Terrain (16x16)_106
-    21300214: Terrain (16x16)_107
-    21300216: Terrain (16x16)_108
-    21300218: Terrain (16x16)_109
-    21300220: Terrain (16x16)_110
-    21300222: Terrain (16x16)_111
-    21300224: Terrain (16x16)_112
-    21300226: Terrain (16x16)_113
-    21300228: Terrain (16x16)_114
-    21300230: Terrain (16x16)_115
-    21300232: Terrain (16x16)_116
-    21300234: Terrain (16x16)_117
-    21300236: Terrain (16x16)_118
-    21300238: Terrain (16x16)_119
-    21300240: Terrain (16x16)_120
-    21300242: Terrain (16x16)_121
-    21300244: Terrain (16x16)_122
-    21300246: Terrain (16x16)_123
-    21300248: Terrain (16x16)_124
-    21300250: Terrain (16x16)_125
-    21300252: Terrain (16x16)_126
-    21300254: Terrain (16x16)_127
-    21300256: Terrain (16x16)_128
-    21300258: Terrain (16x16)_129
-    21300260: Terrain (16x16)_130
-    21300262: Terrain (16x16)_131
-    21300264: Terrain (16x16)_132
-    21300266: Terrain (16x16)_133
-    21300268: Terrain (16x16)_134
-    21300270: Terrain (16x16)_135
-    21300272: Terrain (16x16)_136
-    21300274: Terrain (16x16)_137
-    21300276: Terrain (16x16)_138
-    21300278: Terrain (16x16)_139
-    21300280: Terrain (16x16)_140
-    21300282: Terrain (16x16)_141
-    21300284: Terrain (16x16)_142
-    21300286: Terrain (16x16)_143
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Terrain (16x16)_0
+  - first:
+      213: 21300002
+    second: Terrain (16x16)_1
+  - first:
+      213: 21300004
+    second: Terrain (16x16)_2
+  - first:
+      213: 21300006
+    second: Terrain (16x16)_3
+  - first:
+      213: 21300008
+    second: Terrain (16x16)_4
+  - first:
+      213: 21300010
+    second: Terrain (16x16)_5
+  - first:
+      213: 21300012
+    second: Terrain (16x16)_6
+  - first:
+      213: 21300014
+    second: Terrain (16x16)_7
+  - first:
+      213: 21300016
+    second: Terrain (16x16)_8
+  - first:
+      213: 21300018
+    second: Terrain (16x16)_9
+  - first:
+      213: 21300020
+    second: Terrain (16x16)_10
+  - first:
+      213: 21300022
+    second: Terrain (16x16)_11
+  - first:
+      213: 21300024
+    second: Terrain (16x16)_12
+  - first:
+      213: 21300026
+    second: Terrain (16x16)_13
+  - first:
+      213: 21300028
+    second: Terrain (16x16)_14
+  - first:
+      213: 21300030
+    second: Terrain (16x16)_15
+  - first:
+      213: 21300032
+    second: Terrain (16x16)_16
+  - first:
+      213: 21300034
+    second: Terrain (16x16)_17
+  - first:
+      213: 21300036
+    second: Terrain (16x16)_18
+  - first:
+      213: 21300038
+    second: Terrain (16x16)_19
+  - first:
+      213: 21300040
+    second: Terrain (16x16)_20
+  - first:
+      213: 21300042
+    second: Terrain (16x16)_21
+  - first:
+      213: 21300044
+    second: Terrain (16x16)_22
+  - first:
+      213: 21300046
+    second: Terrain (16x16)_23
+  - first:
+      213: 21300048
+    second: Terrain (16x16)_24
+  - first:
+      213: 21300050
+    second: Terrain (16x16)_25
+  - first:
+      213: 21300052
+    second: Terrain (16x16)_26
+  - first:
+      213: 21300054
+    second: Terrain (16x16)_27
+  - first:
+      213: 21300056
+    second: Terrain (16x16)_28
+  - first:
+      213: 21300058
+    second: Terrain (16x16)_29
+  - first:
+      213: 21300060
+    second: Terrain (16x16)_30
+  - first:
+      213: 21300062
+    second: Terrain (16x16)_31
+  - first:
+      213: 21300064
+    second: Terrain (16x16)_32
+  - first:
+      213: 21300066
+    second: Terrain (16x16)_33
+  - first:
+      213: 21300068
+    second: Terrain (16x16)_34
+  - first:
+      213: 21300070
+    second: Terrain (16x16)_35
+  - first:
+      213: 21300072
+    second: Terrain (16x16)_36
+  - first:
+      213: 21300074
+    second: Terrain (16x16)_37
+  - first:
+      213: 21300076
+    second: Terrain (16x16)_38
+  - first:
+      213: 21300078
+    second: Terrain (16x16)_39
+  - first:
+      213: 21300080
+    second: Terrain (16x16)_40
+  - first:
+      213: 21300082
+    second: Terrain (16x16)_41
+  - first:
+      213: 21300084
+    second: Terrain (16x16)_42
+  - first:
+      213: 21300086
+    second: Terrain (16x16)_43
+  - first:
+      213: 21300088
+    second: Terrain (16x16)_44
+  - first:
+      213: 21300090
+    second: Terrain (16x16)_45
+  - first:
+      213: 21300092
+    second: Terrain (16x16)_46
+  - first:
+      213: 21300094
+    second: Terrain (16x16)_47
+  - first:
+      213: 21300096
+    second: Terrain (16x16)_48
+  - first:
+      213: 21300098
+    second: Terrain (16x16)_49
+  - first:
+      213: 21300100
+    second: Terrain (16x16)_50
+  - first:
+      213: 21300102
+    second: Terrain (16x16)_51
+  - first:
+      213: 21300104
+    second: Terrain (16x16)_52
+  - first:
+      213: 21300106
+    second: Terrain (16x16)_53
+  - first:
+      213: 21300108
+    second: Terrain (16x16)_54
+  - first:
+      213: 21300110
+    second: Terrain (16x16)_55
+  - first:
+      213: 21300112
+    second: Terrain (16x16)_56
+  - first:
+      213: 21300114
+    second: Terrain (16x16)_57
+  - first:
+      213: 21300116
+    second: Terrain (16x16)_58
+  - first:
+      213: 21300118
+    second: Terrain (16x16)_59
+  - first:
+      213: 21300120
+    second: Terrain (16x16)_60
+  - first:
+      213: 21300122
+    second: Terrain (16x16)_61
+  - first:
+      213: 21300124
+    second: Terrain (16x16)_62
+  - first:
+      213: 21300126
+    second: Terrain (16x16)_63
+  - first:
+      213: 21300128
+    second: Terrain (16x16)_64
+  - first:
+      213: 21300130
+    second: Terrain (16x16)_65
+  - first:
+      213: 21300132
+    second: Terrain (16x16)_66
+  - first:
+      213: 21300134
+    second: Terrain (16x16)_67
+  - first:
+      213: 21300136
+    second: Terrain (16x16)_68
+  - first:
+      213: 21300138
+    second: Terrain (16x16)_69
+  - first:
+      213: 21300140
+    second: Terrain (16x16)_70
+  - first:
+      213: 21300142
+    second: Terrain (16x16)_71
+  - first:
+      213: 21300144
+    second: Terrain (16x16)_72
+  - first:
+      213: 21300146
+    second: Terrain (16x16)_73
+  - first:
+      213: 21300148
+    second: Terrain (16x16)_74
+  - first:
+      213: 21300150
+    second: Terrain (16x16)_75
+  - first:
+      213: 21300152
+    second: Terrain (16x16)_76
+  - first:
+      213: 21300154
+    second: Terrain (16x16)_77
+  - first:
+      213: 21300156
+    second: Terrain (16x16)_78
+  - first:
+      213: 21300158
+    second: Terrain (16x16)_79
+  - first:
+      213: 21300160
+    second: Terrain (16x16)_80
+  - first:
+      213: 21300162
+    second: Terrain (16x16)_81
+  - first:
+      213: 21300164
+    second: Terrain (16x16)_82
+  - first:
+      213: 21300166
+    second: Terrain (16x16)_83
+  - first:
+      213: 21300168
+    second: Terrain (16x16)_84
+  - first:
+      213: 21300170
+    second: Terrain (16x16)_85
+  - first:
+      213: 21300172
+    second: Terrain (16x16)_86
+  - first:
+      213: 21300174
+    second: Terrain (16x16)_87
+  - first:
+      213: 21300176
+    second: Terrain (16x16)_88
+  - first:
+      213: 21300178
+    second: Terrain (16x16)_89
+  - first:
+      213: 21300180
+    second: Terrain (16x16)_90
+  - first:
+      213: 21300182
+    second: Terrain (16x16)_91
+  - first:
+      213: 21300184
+    second: Terrain (16x16)_92
+  - first:
+      213: 21300186
+    second: Terrain (16x16)_93
+  - first:
+      213: 21300188
+    second: Terrain (16x16)_94
+  - first:
+      213: 21300190
+    second: Terrain (16x16)_95
+  - first:
+      213: 21300192
+    second: Terrain (16x16)_96
+  - first:
+      213: 21300194
+    second: Terrain (16x16)_97
+  - first:
+      213: 21300196
+    second: Terrain (16x16)_98
+  - first:
+      213: 21300198
+    second: Terrain (16x16)_99
+  - first:
+      213: 21300200
+    second: Terrain (16x16)_100
+  - first:
+      213: 21300202
+    second: Terrain (16x16)_101
+  - first:
+      213: 21300204
+    second: Terrain (16x16)_102
+  - first:
+      213: 21300206
+    second: Terrain (16x16)_103
+  - first:
+      213: 21300208
+    second: Terrain (16x16)_104
+  - first:
+      213: 21300210
+    second: Terrain (16x16)_105
+  - first:
+      213: 21300212
+    second: Terrain (16x16)_106
+  - first:
+      213: 21300214
+    second: Terrain (16x16)_107
+  - first:
+      213: 21300216
+    second: Terrain (16x16)_108
+  - first:
+      213: 21300218
+    second: Terrain (16x16)_109
+  - first:
+      213: 21300220
+    second: Terrain (16x16)_110
+  - first:
+      213: 21300222
+    second: Terrain (16x16)_111
+  - first:
+      213: 21300224
+    second: Terrain (16x16)_112
+  - first:
+      213: 21300226
+    second: Terrain (16x16)_113
+  - first:
+      213: 21300228
+    second: Terrain (16x16)_114
+  - first:
+      213: 21300230
+    second: Terrain (16x16)_115
+  - first:
+      213: 21300232
+    second: Terrain (16x16)_116
+  - first:
+      213: 21300234
+    second: Terrain (16x16)_117
+  - first:
+      213: 21300236
+    second: Terrain (16x16)_118
+  - first:
+      213: 21300238
+    second: Terrain (16x16)_119
+  - first:
+      213: 21300240
+    second: Terrain (16x16)_120
+  - first:
+      213: 21300242
+    second: Terrain (16x16)_121
+  - first:
+      213: 21300244
+    second: Terrain (16x16)_122
+  - first:
+      213: 21300246
+    second: Terrain (16x16)_123
+  - first:
+      213: 21300248
+    second: Terrain (16x16)_124
+  - first:
+      213: 21300250
+    second: Terrain (16x16)_125
+  - first:
+      213: 21300252
+    second: Terrain (16x16)_126
+  - first:
+      213: 21300254
+    second: Terrain (16x16)_127
+  - first:
+      213: 21300256
+    second: Terrain (16x16)_128
+  - first:
+      213: 21300258
+    second: Terrain (16x16)_129
+  - first:
+      213: 21300260
+    second: Terrain (16x16)_130
+  - first:
+      213: 21300262
+    second: Terrain (16x16)_131
+  - first:
+      213: 21300264
+    second: Terrain (16x16)_132
+  - first:
+      213: 21300266
+    second: Terrain (16x16)_133
+  - first:
+      213: 21300268
+    second: Terrain (16x16)_134
+  - first:
+      213: 21300270
+    second: Terrain (16x16)_135
+  - first:
+      213: 21300272
+    second: Terrain (16x16)_136
+  - first:
+      213: 21300274
+    second: Terrain (16x16)_137
+  - first:
+      213: 21300276
+    second: Terrain (16x16)_138
+  - first:
+      213: 21300278
+    second: Terrain (16x16)_139
+  - first:
+      213: 21300280
+    second: Terrain (16x16)_140
+  - first:
+      213: 21300282
+    second: Terrain (16x16)_141
+  - first:
+      213: 21300284
+    second: Terrain (16x16)_142
+  - first:
+      213: 21300286
+    second: Terrain (16x16)_143
   externalObjects: {}
-  serializedVersion: 4
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -164,7 +452,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -195,11 +488,19 @@ TextureImporter:
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
-  - buildTarget: DefaultTexturePlatform
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -208,8 +509,11 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
-  - buildTarget: Standalone
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -218,8 +522,11 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
-  - buildTarget: Server
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -228,8 +535,11 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
-  - buildTarget: Android
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -238,8 +548,11 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
-  - buildTarget: iPhone
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -248,8 +561,11 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
-  - buildTarget: Windows Store Apps
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -258,7 +574,22 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -276,6 +607,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_1
       rect:
@@ -290,6 +628,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_2
       rect:
@@ -304,6 +649,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_3
       rect:
@@ -318,6 +670,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_4
       rect:
@@ -332,6 +691,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_5
       rect:
@@ -346,6 +712,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_6
       rect:
@@ -360,6 +733,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_7
       rect:
@@ -374,6 +754,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_8
       rect:
@@ -388,6 +775,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_9
       rect:
@@ -402,6 +796,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_10
       rect:
@@ -416,6 +817,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_11
       rect:
@@ -430,6 +838,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_12
       rect:
@@ -444,6 +859,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_13
       rect:
@@ -458,6 +880,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_14
       rect:
@@ -472,6 +901,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_15
       rect:
@@ -486,6 +922,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_16
       rect:
@@ -500,6 +943,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_17
       rect:
@@ -514,6 +964,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_18
       rect:
@@ -528,6 +985,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_19
       rect:
@@ -542,6 +1006,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_20
       rect:
@@ -556,6 +1027,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_21
       rect:
@@ -570,6 +1048,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_22
       rect:
@@ -584,6 +1069,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_23
       rect:
@@ -598,6 +1090,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_24
       rect:
@@ -612,6 +1111,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_25
       rect:
@@ -626,6 +1132,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_26
       rect:
@@ -640,6 +1153,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_27
       rect:
@@ -654,6 +1174,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_28
       rect:
@@ -668,6 +1195,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_29
       rect:
@@ -682,6 +1216,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_30
       rect:
@@ -696,6 +1237,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_31
       rect:
@@ -710,6 +1258,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_32
       rect:
@@ -724,6 +1279,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_33
       rect:
@@ -738,6 +1300,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_34
       rect:
@@ -752,6 +1321,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_35
       rect:
@@ -766,6 +1342,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_36
       rect:
@@ -780,6 +1363,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_37
       rect:
@@ -794,6 +1384,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_38
       rect:
@@ -808,6 +1405,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_39
       rect:
@@ -822,6 +1426,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_40
       rect:
@@ -836,6 +1447,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_41
       rect:
@@ -850,6 +1468,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_42
       rect:
@@ -864,6 +1489,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_43
       rect:
@@ -878,6 +1510,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_44
       rect:
@@ -892,6 +1531,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_45
       rect:
@@ -906,6 +1552,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_46
       rect:
@@ -920,6 +1573,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_47
       rect:
@@ -934,6 +1594,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_48
       rect:
@@ -948,6 +1615,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_49
       rect:
@@ -962,6 +1636,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_50
       rect:
@@ -976,6 +1657,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_51
       rect:
@@ -990,6 +1678,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_52
       rect:
@@ -1004,6 +1699,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_53
       rect:
@@ -1018,6 +1720,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_54
       rect:
@@ -1032,6 +1741,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_55
       rect:
@@ -1046,6 +1762,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_56
       rect:
@@ -1060,6 +1783,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_57
       rect:
@@ -1074,6 +1804,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_58
       rect:
@@ -1088,6 +1825,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_59
       rect:
@@ -1102,6 +1846,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_60
       rect:
@@ -1116,6 +1867,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_61
       rect:
@@ -1130,6 +1888,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_62
       rect:
@@ -1144,6 +1909,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_63
       rect:
@@ -1158,6 +1930,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_64
       rect:
@@ -1172,6 +1951,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_65
       rect:
@@ -1186,6 +1972,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2a305410000000000800000000000000
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_66
       rect:
@@ -1200,6 +1993,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4a305410000000000800000000000000
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_67
       rect:
@@ -1214,6 +2014,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_68
       rect:
@@ -1228,6 +2035,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8a305410000000000800000000000000
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_69
       rect:
@@ -1242,6 +2056,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: aa305410000000000800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_70
       rect:
@@ -1256,6 +2077,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ca305410000000000800000000000000
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_71
       rect:
@@ -1270,6 +2098,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ea305410000000000800000000000000
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_72
       rect:
@@ -1284,6 +2119,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0b305410000000000800000000000000
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_73
       rect:
@@ -1298,6 +2140,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2b305410000000000800000000000000
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_74
       rect:
@@ -1312,6 +2161,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4b305410000000000800000000000000
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_75
       rect:
@@ -1326,6 +2182,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6b305410000000000800000000000000
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_76
       rect:
@@ -1340,6 +2203,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8b305410000000000800000000000000
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_77
       rect:
@@ -1354,6 +2224,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ab305410000000000800000000000000
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_78
       rect:
@@ -1368,6 +2245,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: cb305410000000000800000000000000
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_79
       rect:
@@ -1382,6 +2266,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: eb305410000000000800000000000000
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_80
       rect:
@@ -1396,6 +2287,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0c305410000000000800000000000000
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_81
       rect:
@@ -1410,6 +2308,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2c305410000000000800000000000000
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_82
       rect:
@@ -1424,6 +2329,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4c305410000000000800000000000000
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_83
       rect:
@@ -1438,6 +2350,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6c305410000000000800000000000000
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_84
       rect:
@@ -1452,6 +2371,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8c305410000000000800000000000000
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_85
       rect:
@@ -1466,6 +2392,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ac305410000000000800000000000000
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_86
       rect:
@@ -1480,6 +2413,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: cc305410000000000800000000000000
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_87
       rect:
@@ -1494,6 +2434,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ec305410000000000800000000000000
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_88
       rect:
@@ -1508,6 +2455,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0d305410000000000800000000000000
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_89
       rect:
@@ -1522,6 +2476,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2d305410000000000800000000000000
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_90
       rect:
@@ -1536,6 +2497,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4d305410000000000800000000000000
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_91
       rect:
@@ -1550,6 +2518,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6d305410000000000800000000000000
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_92
       rect:
@@ -1564,6 +2539,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8d305410000000000800000000000000
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_93
       rect:
@@ -1578,6 +2560,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ad305410000000000800000000000000
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_94
       rect:
@@ -1592,6 +2581,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: cd305410000000000800000000000000
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_95
       rect:
@@ -1606,6 +2602,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ed305410000000000800000000000000
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_96
       rect:
@@ -1620,6 +2623,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0e305410000000000800000000000000
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_97
       rect:
@@ -1634,6 +2644,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2e305410000000000800000000000000
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_98
       rect:
@@ -1648,6 +2665,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4e305410000000000800000000000000
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_99
       rect:
@@ -1662,6 +2686,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6e305410000000000800000000000000
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_100
       rect:
@@ -1676,6 +2707,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8e305410000000000800000000000000
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_101
       rect:
@@ -1690,6 +2728,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ae305410000000000800000000000000
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_102
       rect:
@@ -1704,6 +2749,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ce305410000000000800000000000000
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_103
       rect:
@@ -1718,6 +2770,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ee305410000000000800000000000000
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_104
       rect:
@@ -1732,6 +2791,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0f305410000000000800000000000000
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_105
       rect:
@@ -1746,6 +2812,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2f305410000000000800000000000000
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_106
       rect:
@@ -1760,6 +2833,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4f305410000000000800000000000000
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_107
       rect:
@@ -1774,6 +2854,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6f305410000000000800000000000000
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_108
       rect:
@@ -1788,6 +2875,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8f305410000000000800000000000000
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_109
       rect:
@@ -1802,6 +2896,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: af305410000000000800000000000000
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_110
       rect:
@@ -1816,6 +2917,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: cf305410000000000800000000000000
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_111
       rect:
@@ -1830,6 +2938,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ef305410000000000800000000000000
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_112
       rect:
@@ -1844,6 +2959,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 00405410000000000800000000000000
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_113
       rect:
@@ -1858,6 +2980,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 20405410000000000800000000000000
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_114
       rect:
@@ -1872,6 +3001,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 40405410000000000800000000000000
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_115
       rect:
@@ -1886,6 +3022,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 60405410000000000800000000000000
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_116
       rect:
@@ -1900,6 +3043,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 80405410000000000800000000000000
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_117
       rect:
@@ -1914,6 +3064,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a0405410000000000800000000000000
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_118
       rect:
@@ -1928,6 +3085,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c0405410000000000800000000000000
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_119
       rect:
@@ -1942,6 +3106,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e0405410000000000800000000000000
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_120
       rect:
@@ -1956,6 +3127,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 01405410000000000800000000000000
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_121
       rect:
@@ -1970,6 +3148,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 21405410000000000800000000000000
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_122
       rect:
@@ -1984,6 +3169,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 41405410000000000800000000000000
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_123
       rect:
@@ -1998,6 +3190,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 61405410000000000800000000000000
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_124
       rect:
@@ -2012,6 +3211,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 81405410000000000800000000000000
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_125
       rect:
@@ -2026,6 +3232,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a1405410000000000800000000000000
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_126
       rect:
@@ -2040,6 +3253,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c1405410000000000800000000000000
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_127
       rect:
@@ -2054,6 +3274,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e1405410000000000800000000000000
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_128
       rect:
@@ -2068,6 +3295,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 02405410000000000800000000000000
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_129
       rect:
@@ -2082,6 +3316,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 22405410000000000800000000000000
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_130
       rect:
@@ -2096,6 +3337,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 42405410000000000800000000000000
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_131
       rect:
@@ -2110,6 +3358,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 62405410000000000800000000000000
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_132
       rect:
@@ -2124,6 +3379,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 82405410000000000800000000000000
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_133
       rect:
@@ -2138,6 +3400,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a2405410000000000800000000000000
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_134
       rect:
@@ -2152,6 +3421,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c2405410000000000800000000000000
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_135
       rect:
@@ -2166,6 +3442,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e2405410000000000800000000000000
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_136
       rect:
@@ -2180,6 +3463,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 03405410000000000800000000000000
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_137
       rect:
@@ -2194,6 +3484,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 23405410000000000800000000000000
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_138
       rect:
@@ -2208,6 +3505,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 43405410000000000800000000000000
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_139
       rect:
@@ -2222,6 +3526,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 63405410000000000800000000000000
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_140
       rect:
@@ -2236,6 +3547,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 83405410000000000800000000000000
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_141
       rect:
@@ -2250,6 +3568,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a3405410000000000800000000000000
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_142
       rect:
@@ -2264,6 +3589,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c3405410000000000800000000000000
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Terrain (16x16)_143
       rect:
@@ -2278,9 +3610,170 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e3405410000000000800000000000000
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
-  spritePackingTag: 
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Terrain (16x16)_0: 21300000
+      Terrain (16x16)_1: 21300002
+      Terrain (16x16)_10: 21300020
+      Terrain (16x16)_100: 21300200
+      Terrain (16x16)_101: 21300202
+      Terrain (16x16)_102: 21300204
+      Terrain (16x16)_103: 21300206
+      Terrain (16x16)_104: 21300208
+      Terrain (16x16)_105: 21300210
+      Terrain (16x16)_106: 21300212
+      Terrain (16x16)_107: 21300214
+      Terrain (16x16)_108: 21300216
+      Terrain (16x16)_109: 21300218
+      Terrain (16x16)_11: 21300022
+      Terrain (16x16)_110: 21300220
+      Terrain (16x16)_111: 21300222
+      Terrain (16x16)_112: 21300224
+      Terrain (16x16)_113: 21300226
+      Terrain (16x16)_114: 21300228
+      Terrain (16x16)_115: 21300230
+      Terrain (16x16)_116: 21300232
+      Terrain (16x16)_117: 21300234
+      Terrain (16x16)_118: 21300236
+      Terrain (16x16)_119: 21300238
+      Terrain (16x16)_12: 21300024
+      Terrain (16x16)_120: 21300240
+      Terrain (16x16)_121: 21300242
+      Terrain (16x16)_122: 21300244
+      Terrain (16x16)_123: 21300246
+      Terrain (16x16)_124: 21300248
+      Terrain (16x16)_125: 21300250
+      Terrain (16x16)_126: 21300252
+      Terrain (16x16)_127: 21300254
+      Terrain (16x16)_128: 21300256
+      Terrain (16x16)_129: 21300258
+      Terrain (16x16)_13: 21300026
+      Terrain (16x16)_130: 21300260
+      Terrain (16x16)_131: 21300262
+      Terrain (16x16)_132: 21300264
+      Terrain (16x16)_133: 21300266
+      Terrain (16x16)_134: 21300268
+      Terrain (16x16)_135: 21300270
+      Terrain (16x16)_136: 21300272
+      Terrain (16x16)_137: 21300274
+      Terrain (16x16)_138: 21300276
+      Terrain (16x16)_139: 21300278
+      Terrain (16x16)_14: 21300028
+      Terrain (16x16)_140: 21300280
+      Terrain (16x16)_141: 21300282
+      Terrain (16x16)_142: 21300284
+      Terrain (16x16)_143: 21300286
+      Terrain (16x16)_15: 21300030
+      Terrain (16x16)_16: 21300032
+      Terrain (16x16)_17: 21300034
+      Terrain (16x16)_18: 21300036
+      Terrain (16x16)_19: 21300038
+      Terrain (16x16)_2: 21300004
+      Terrain (16x16)_20: 21300040
+      Terrain (16x16)_21: 21300042
+      Terrain (16x16)_22: 21300044
+      Terrain (16x16)_23: 21300046
+      Terrain (16x16)_24: 21300048
+      Terrain (16x16)_25: 21300050
+      Terrain (16x16)_26: 21300052
+      Terrain (16x16)_27: 21300054
+      Terrain (16x16)_28: 21300056
+      Terrain (16x16)_29: 21300058
+      Terrain (16x16)_3: 21300006
+      Terrain (16x16)_30: 21300060
+      Terrain (16x16)_31: 21300062
+      Terrain (16x16)_32: 21300064
+      Terrain (16x16)_33: 21300066
+      Terrain (16x16)_34: 21300068
+      Terrain (16x16)_35: 21300070
+      Terrain (16x16)_36: 21300072
+      Terrain (16x16)_37: 21300074
+      Terrain (16x16)_38: 21300076
+      Terrain (16x16)_39: 21300078
+      Terrain (16x16)_4: 21300008
+      Terrain (16x16)_40: 21300080
+      Terrain (16x16)_41: 21300082
+      Terrain (16x16)_42: 21300084
+      Terrain (16x16)_43: 21300086
+      Terrain (16x16)_44: 21300088
+      Terrain (16x16)_45: 21300090
+      Terrain (16x16)_46: 21300092
+      Terrain (16x16)_47: 21300094
+      Terrain (16x16)_48: 21300096
+      Terrain (16x16)_49: 21300098
+      Terrain (16x16)_5: 21300010
+      Terrain (16x16)_50: 21300100
+      Terrain (16x16)_51: 21300102
+      Terrain (16x16)_52: 21300104
+      Terrain (16x16)_53: 21300106
+      Terrain (16x16)_54: 21300108
+      Terrain (16x16)_55: 21300110
+      Terrain (16x16)_56: 21300112
+      Terrain (16x16)_57: 21300114
+      Terrain (16x16)_58: 21300116
+      Terrain (16x16)_59: 21300118
+      Terrain (16x16)_6: 21300012
+      Terrain (16x16)_60: 21300120
+      Terrain (16x16)_61: 21300122
+      Terrain (16x16)_62: 21300124
+      Terrain (16x16)_63: 21300126
+      Terrain (16x16)_64: 21300128
+      Terrain (16x16)_65: 21300130
+      Terrain (16x16)_66: 21300132
+      Terrain (16x16)_67: 21300134
+      Terrain (16x16)_68: 21300136
+      Terrain (16x16)_69: 21300138
+      Terrain (16x16)_7: 21300014
+      Terrain (16x16)_70: 21300140
+      Terrain (16x16)_71: 21300142
+      Terrain (16x16)_72: 21300144
+      Terrain (16x16)_73: 21300146
+      Terrain (16x16)_74: 21300148
+      Terrain (16x16)_75: 21300150
+      Terrain (16x16)_76: 21300152
+      Terrain (16x16)_77: 21300154
+      Terrain (16x16)_78: 21300156
+      Terrain (16x16)_79: 21300158
+      Terrain (16x16)_8: 21300016
+      Terrain (16x16)_80: 21300160
+      Terrain (16x16)_81: 21300162
+      Terrain (16x16)_82: 21300164
+      Terrain (16x16)_83: 21300166
+      Terrain (16x16)_84: 21300168
+      Terrain (16x16)_85: 21300170
+      Terrain (16x16)_86: 21300172
+      Terrain (16x16)_87: 21300174
+      Terrain (16x16)_88: 21300176
+      Terrain (16x16)_89: 21300178
+      Terrain (16x16)_9: 21300018
+      Terrain (16x16)_90: 21300180
+      Terrain (16x16)_91: 21300182
+      Terrain (16x16)_92: 21300184
+      Terrain (16x16)_93: 21300186
+      Terrain (16x16)_94: 21300188
+      Terrain (16x16)_95: 21300190
+      Terrain (16x16)_96: 21300192
+      Terrain (16x16)_97: 21300194
+      Terrain (16x16)_98: 21300196
+      Terrain (16x16)_99: 21300198
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
