@@ -6,9 +6,6 @@ using UnityEngine;
 using UnityEngine.Windows.Speech;
 using TMPro;
 
-
-
-
 public class Player : MonoBehaviour
 {
     public static Player instance;
@@ -18,20 +15,23 @@ public class Player : MonoBehaviour
     [SerializeField]
     private float moveSpeed;
     [SerializeField]
-    private float dashDistance = 1f; // Distance for each dash
+    private float dashDistance = 1f;
     [SerializeField]
     private Animator anim;
     [SerializeField]
-    private float dashCooldown = 5f; // The cooldown duration for dash
-    private float lastDashTime = -5f; // Initialize to a time that allows immediate dashing
+    private float dashCooldown = 5f;
+    private float lastDashTime = -5f;
 
     private int currentDirection = 0;
     private int _direction = 0;
-    private bool isInvincible = false; // Invincibility flag
+    private bool isInvincible = false;
     public TMP_Text dashCooldownText;
     public int Direction { get { return _direction; } }
     private Dictionary<string, Action> keywordActions = new Dictionary<string, Action>();
     private KeywordRecognizer keywordRecognizer;
+
+    private bool isDashing = false;
+    private bool isMoving = false;
 
     private void Awake()
     {
@@ -40,7 +40,7 @@ public class Player : MonoBehaviour
         keywordActions.Add("stop", Stop);
         keywordActions.Add("left", Left);
         keywordActions.Add("right", Right);
-        keywordActions.Add("dash", Dash); // Add Dash command
+        keywordActions.Add("dash", Dash);
 
         keywordRecognizer = new KeywordRecognizer(keywordActions.Keys.ToArray());
         keywordRecognizer.OnPhraseRecognized += OnKeywordRecognized;
@@ -56,23 +56,24 @@ public class Player : MonoBehaviour
     private void Stop()
     {
         _direction = 0;
+        isMoving = false;
     }
 
     private void Left()
     {
         _direction = -1;
+        isMoving = true;
     }
 
     private void Right()
     {
         _direction = 1;
+        isMoving = true;
     }
-
-    private bool isDashing = false;
 
     private void Dash()
     {
-        if (Time.time >= lastDashTime + dashCooldown)
+        if (Time.time >= lastDashTime + dashCooldown && isMoving && !isDashing)
         {
             StartCoroutine(PerformDash());
         }
@@ -80,25 +81,22 @@ public class Player : MonoBehaviour
 
     private IEnumerator PerformDash()
     {
-        isDashing = true; // Set dashing
-        isInvincible = true; // Set invincibility
-        for (int i = 0; i < 3; i++) // Dash for 3 frames
+        isDashing = true;
+        isInvincible = true;
+        for (int i = 0; i < 3; i++)
         {
             float newPosX = transform.position.x + dashDistance * currentDirection;
-            newPosX = Mathf.Clamp(newPosX, -xLimit, xLimit); // Ensure within limits
+            newPosX = Mathf.Clamp(newPosX, -xLimit, xLimit);
             transform.position = new Vector3(newPosX, transform.position.y, transform.position.z);
-            yield return null; // Wait for one frame
+            yield return null;
         }
-        isInvincible = false; // Unset invincibility
-        isDashing = false; // Unset dashing
-        lastDashTime = Time.time; // Update last dash time
+        isInvincible = false;
+        isDashing = false;
+        lastDashTime = Time.time;
     }
 
-
-    // Update is called once per frame
     void Update()
     {
-        // Update the dash cooldown text
         if (Time.time < lastDashTime + dashCooldown)
         {
             dashCooldownText.text = $"Cooldown: {Mathf.Max(0, lastDashTime + dashCooldown - Time.time):0.0}s";
@@ -107,32 +105,20 @@ public class Player : MonoBehaviour
         {
             dashCooldownText.text = "";
         }
-        // Make sure the text is positioned above the player
         Vector3 textPosition = new Vector3(transform.position.x, transform.position.y + 2f, dashCooldownText.transform.position.z);
         dashCooldownText.transform.position = textPosition;
 
-
-        // Keyboard input.
         float horizontalInput = Input.GetAxis("Horizontal");
         int directionKeyboard = (horizontalInput != 0) ? (int)Mathf.Sign(horizontalInput) : 0;
 
-        // Combine keyboard and voice input. You might need to handle the case when both inputs are active.
         int combinedDirection = _direction != 0 ? _direction : directionKeyboard;
+        isMoving = combinedDirection != 0;
 
-        // Update current direction
         if (combinedDirection != 0)
         {
             currentDirection = combinedDirection;
         }
 
-        // Listen for the Dash keypress
-        if (Input.GetKeyDown(KeyCode.Space) && !isDashing)
-        {
-            Dash();
-            return;
-        }
-
-        // Only allow movement if not dashing
         if (!isDashing && combinedDirection != 0)
         {
             transform.position += Vector3.right * moveSpeed * Time.deltaTime * combinedDirection;
@@ -172,7 +158,7 @@ public class Player : MonoBehaviour
 
         if (other.CompareTag("Enemy"))
         {
-            if (!isInvincible) // Check for invincibility
+            if (!isInvincible)
             {
                 MenuManager.instance.GameOver();
                 gameObject.SetActive(false);

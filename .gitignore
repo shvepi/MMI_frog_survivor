@@ -1,15 +1,5 @@
 
 .vs/MMI_frog_survivor/v15/Server/sqlite3/db.lock
 *.backup
-Temp/UnityLockfile
-Temp/UnityTempFile-1a823e84b98e1474880d2f9d7ab9af74
-Temp/UnityTempFile-3bcb23773786c764681480cc141ab3b0
-Temp/UnityTempFile-4fe914d2041a41c47a54309f8f37326f
-Temp/UnityTempFile-831addd2622d4dd48a48e3720a653f59
-Temp/UnityTempFile-a9485ae5f244fc74aaa45592bfc0da32
-Temp/UnityTempFile-b499fcf443fbe654095571492c506ccf
-Temp/UnityTempFile-bc24e1622394e8546936d8feeed718a1
-Temp/UnityTempFile-d280da78fd70fe546b101d1f6e00ae53
-Temp/UnityTempFile-f1a4dd19b6f44614aa22e57fe8d29efb
-Temp/UnityTempFile-f4a165db46569944483c83f33d4b6289
-Logs
+
+Temp
